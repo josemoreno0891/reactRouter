@@ -1,4 +1,3 @@
-import Blue from "./blue"
 
 export default function Home() {
     return (
